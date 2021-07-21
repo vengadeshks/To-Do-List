@@ -14,7 +14,7 @@ app.use(express.static("public"));
 
 
 //connect to the database
-mongoose.connect("mongodb+srv://admin-vengadesh:test123@cluster0.sdhkd.mongodb.net/todolistDB",{useNewUrlParser:true, useUnifiedTopology: true });
+mongoose.connect("mongodb+srv://username:password@cluster0.sdhkd.mongodb.net/todolistDB",{useNewUrlParser:true, useUnifiedTopology: true });
 
 // schema to the model
 const itemsSchema = {
