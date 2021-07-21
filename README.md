@@ -3,6 +3,8 @@ To-Do-List web app with nodejs and mongoDB
 
 Live demo: [To-Do-List](https://still-coast-93002.herokuapp.com/)
 
+Type **/something** after the url to create a personalized list
+
 ## Prerequisites
 1. Install NODE JS using the link https://nodejs.org/en/ 
 2. Then Install MongoDB using the link https://docs.mongodb.com/manual/installation/
